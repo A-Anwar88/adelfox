@@ -34,6 +34,7 @@ h4{
 .sub-nav{
     background-color: #293237;
     border-bottom: 1px solid rgba(58, 56, 56, 0.788);
+    display:flex;
 }
 .sub-nav .item-nav{
     list-style: none;
