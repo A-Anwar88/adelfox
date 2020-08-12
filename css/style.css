@@ -63,11 +63,12 @@ h4{
 .sub-nav .cart{
     display: inline-block;
     text-align: right;
+     width:25%;
+    padding-right:10px;
 }
 .navbar .nav-item{
     margin-top: 10px;
-    width:25%;
-    padding-right:10px;
+
 }
 .navbar-expand-lg .navbar-nav .nav-link{
     color: #93989c;
@@ -136,7 +137,7 @@ h4{
 .carousel .carousel-control-next,
 .carousel .carousel-control-prev{
     background-color: #303436;
-    width: 100px;
+    width: 60px;
     height: 60px;
     font-size: 20px;
     top: 45%!important;
